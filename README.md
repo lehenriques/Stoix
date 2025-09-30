@@ -15,7 +15,7 @@ Sistema completo de CRUD de tarefas desenvolvido com Laravel (backend) e React T
 ## 🚀 Tecnologias Utilizadas
 
 ### Backend
-- **Laravel 11** - Framework PHP
+- **Laravel 12** - Framework PHP
 - **MySQL 8.0** - Banco de dados
 - **Laravel Sail** - Ambiente Docker
 - **PHP 8.4** - Linguagem de programação
